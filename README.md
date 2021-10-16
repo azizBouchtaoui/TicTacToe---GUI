@@ -18,16 +18,17 @@ For JAVA we will need to files  GUI.java and Tic_Tac_Toe.java they are self expl
 In general in our GUI.java all what we need to do, is:
 
 First Field called "Username" to store the player name.
-Second Field called "password" the password is Key just morracan people can knows it is 'tiwliwla' just for make some fun.
-Check if the Kay is valid, else if player cant reply just need to enter name and click ok, thek wwill display under ( isay it its jst for fun).
-and Redirect to Tic_Tac_Toe.java.
+Second Field called "password" the password is Key just morracan people can knows it is 'tiwliwla' just for make some fun 😄.
+Check if the Kay is valid ✔️, else if player cant reply just need to enter name and click ok, thek wwill display under 😝 ( isay it its jst for fun 😏).
+and Redirect to Tic_Tac_Toe.java 💨.
 
 
 our Tic_Tac_Toe.java is:
 Determine which Button on THE BOARD the player has clicked on.
 Update the gameData array. (if the button clicked by the player is empty)
 Draw the player's move on the board.
-check if this player wins. if wins we show the game over message. and stop the game.
+check if this player wins. if wins we show the game over message 😵. and stop the game.
 If it doesn't win, we check for a tie game, if it's a tie we show the game over message. and stop the game.
-If there is no winner and it's not a tie game, we give the turn to other player. 
+If there is no winner and it's not a tie game, we give the turn to other player 😉. 
+If There is a winner. we show bravoo🎉🎉! the X / O is Win .
 
