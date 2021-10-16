@@ -29,5 +29,5 @@ Draw the player's move on the board.
 check if this player wins. if wins we show the game over message 😵. and stop the game.
 If it doesn't win, we check for a tie game, if it's a tie we show the game over message. and stop the game.
 If there is no winner and it's not a tie game, we give the turn to other player 😉. 
-If There is a winner. we show bravoo🎉🎉! the X / O is Win .
+If There is a winner. we show bravoo🎉🎉! the X or O is Win .
 
